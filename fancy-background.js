@@ -1,3 +1,11 @@
+/*
+ * fancy-background v1.0.0
+ *
+ * Copyright (c) 2016 flinbu
+ * Dual licensed under the MIT and GPL licenses.
+ *
+ */
+
 function fancyBackground(el, lines, lineWidth, minHeightPCT, maxHeightPCT, spaceGutter, animDuration, colors) {
 
   var winWidth = el.width(),

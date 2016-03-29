@@ -61,4 +61,4 @@ You can change this options to modify the background:
 </script>
 ```
 ## Demo
-[http://demo-owl.fortkle.com/](http://demo-owl.fortkle.com/)
+[http://flinbu.github.io/fancy-background/](http://flinbu.github.io/fancy-background/)
